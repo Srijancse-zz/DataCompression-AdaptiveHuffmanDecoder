@@ -1,0 +1,6 @@
+*swp
+*.o
+a.out
+encodingtest.data
+ahencode
+ahdecode
